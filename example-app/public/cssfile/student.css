@@ -17,6 +17,7 @@
         margin-bottom: 20px;
         text-align: center;
         color: #333333;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     }
 
     table {
@@ -53,7 +54,6 @@
         font-weight: bold;
         cursor: pointer;
     }
-
     .edit-button {
         background-color: #4caf50;
     }
